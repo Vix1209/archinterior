@@ -1,4 +1,5 @@
 # Archinterior
 
-A single page applications aimed at showcasing architectural and interior design prowess.
-A suitable portfolio site demo, perfect for interior designers, realtors and architects.       
+A single-page application created with HTML, CSS and vanilla Javascript
+
+Aimed at showcasing architectural and interior design prowess, a suitable portfolio site demo, perfect for interior designers, realtors and architects.    
